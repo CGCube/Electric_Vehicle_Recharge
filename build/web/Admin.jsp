@@ -52,7 +52,7 @@ $(document).ready(function() {
         <div class="introtext">
           <h2>Abstract</h2>
           <p align='justify'>
-             This Project examines various issues related to electric vehicle supply equipment (EVSE) or charging stations related to. The proposed system of EV Charging mobile app to provide EV owner the convenience of locating charging stations on google map, vacancy of  charging slots, getting updates on charging, recommendations on time-of-day use. Help increase the life of batteries and ensure smooth journeys long distance
+             This Project examines various issues related to electric vehicle supply equipment (EVSE) or charging stations related to. The proposed system of EV Charging mobile app to provide EV owner the convenience of locating charging stations on google map, vacancy of  charging slots, getting updates on charging, recommendations on time-of-day use. Help increase the life of batteries and ensure smooth journeys long distance
  
           </p>
         </div>
@@ -61,7 +61,7 @@ $(document).ready(function() {
         <div class="introtext">
           <h2>Abstract</h2>
           <p align='justify'>
-                 This Project examines various issues related to electric vehicle supply equipment (EVSE) or charging stations related to. The proposed system of EV Charging mobile app to provide EV owner the convenience of locating charging stations on google map, vacancy of  charging slots, getting updates on charging, recommendations on time-of-day use. Help increase the life of batteries and ensure smooth journeys long distance
+                 This Project examines various issues related to electric vehicle supply equipment (EVSE) or charging stations related to. The proposed system of EV Charging mobile app to provide EV owner the convenience of locating charging stations on google map, vacancy of  charging slots, getting updates on charging, recommendations on time-of-day use. Help increase the life of batteries and ensure smooth journeys long distance
  
           </p>
         </div>
@@ -70,7 +70,7 @@ $(document).ready(function() {
         <div class="introtext">
           <h2>Abstract</h2>
           <p align='justify'>
-                 This Project examines various issues related to electric vehicle supply equipment (EVSE) or charging stations related to. The proposed system of EV Charging mobile app to provide EV owner the convenience of locating charging stations on google map, vacancy of  charging slots, getting updates on charging, recommendations on time-of-day use. Help increase the life of batteries and ensure smooth journeys long distance
+                 This Project examines various issues related to electric vehicle supply equipment (EVSE) or charging stations related to. The proposed system of EV Charging mobile app to provide EV owner the convenience of locating charging stations on google map, vacancy of  charging slots, getting updates on charging, recommendations on time-of-day use. Help increase the life of batteries and ensure smooth journeys long distance
  
           </p>  
         </div>

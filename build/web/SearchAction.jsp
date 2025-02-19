@@ -19,9 +19,9 @@
 <script type="text/javascript" src="layout/scripts/jquery-s3slider.js"></script>
 <script type="text/javascript">
 $(document).ready(function() {
-	$("#featured_slide_").s3Slider({
-		timeOut:10000 
-	});
+    $("#featured_slide_").s3Slider({
+        timeOut:10000 
+    });
 });
 </script>
 <!-- / Featured Slider -->
@@ -55,7 +55,7 @@ $(document).ready(function() {
             <h2>SEARCH RESULT</h2>
           <TABLE>
                 <TR>
-                    <TH>LOCATION</TH> <TH>AREA</TH><TH>MOBILE</TH><TH>SLOT VACANCY</TH>
+                    <TH>LOCATION</TH> <TH>AREA</TH><TH>MOBILE</TH><TH>SLOT VACANCY</TH><TH>VIEW ON MAP</TH>
                 </TR>
                 <%
                 try{
@@ -67,6 +67,7 @@ $(document).ready(function() {
                         <td><%=r.getString("area")%></td>
                            <td><%=r.getString("mobile")%></td>
                                <td><a href="SlotsVacancy.jsp?id=<%=r.getString("id")%>">VIEW</a></td>
+                               <td><a href="https://www.google.com/maps/search/?api=1&query=<%=r.getString("latitude")%>,<%=r.getString("longitude")%>" target="_blank">VIEW ON MAP</a></td>
                    </tr>
                    
                    <%
