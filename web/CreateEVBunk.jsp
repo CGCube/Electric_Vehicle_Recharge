@@ -29,7 +29,7 @@ $(document).ready(function() {
     var infowindow;
 
     function initMap() {
-        var initialLocation = { lat: -34.397, lng: 150.644 }; // Default location
+        var initialLocation = { lat: 19.076, lng: 72.877 }; // Default location
         map = new google.maps.Map(document.getElementById('map'), {
             center: initialLocation,
             zoom: 8
